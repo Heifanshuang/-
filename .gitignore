@@ -1,0 +1,10 @@
+# 大体积第三方 TTS 引擎（含 ONNX 模型，需单独下载，见 README）
+MOSS-TTS-Nano-main/
+
+# 运行时缓存
+.tts_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
